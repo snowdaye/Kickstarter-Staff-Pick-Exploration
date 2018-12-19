@@ -22,7 +22,7 @@ https://www.kaggle.com/kemical/kickstarter-projects/home
 
 
 #### Methodology  
-Examine Kickstarter datasets created over a three-year period describing campaigns designated as a ‘staff pick’.  Explore how categorical & location distribution, experience of project creator, and length of campaign correlates to the ‘staff pick’ designation.  
+Examine Kickstarter datasets sourced over a three-year period describing campaigns designated as a ‘staff pick’.  Explore how categorical & location distribution, experience of project creator, and length of campaign correlates to the ‘staff pick’ designation.  
 
 
 #### Deliverables  
