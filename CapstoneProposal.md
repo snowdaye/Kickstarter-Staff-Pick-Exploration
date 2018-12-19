@@ -2,7 +2,7 @@
 _submitted 12/18/18_    
 
 #### Premise
-An earlier study of Kickstarter data determined that campaigns which are designated a ‘staff pick’ have an almost 10% greater chance of reaching its funding goal.  My project is to examine the same datasets to try and extract information about Kickstarter projects that were a ‘staff pick’.
+An earlier study of Kickstarter data determined that a campaign designated as a ‘staff pick’ has an almost 10% greater chance of reaching its funding goal.  My project is to examine the same datasets to try and extract information about Kickstarter projects that were a ‘staff pick’.
 
 A link to the earlier study of Kickstarter data is here:  
 https://data.world/rdowns26/kickstarter-campaigns/workspace/file?filename=Term+Project+Report.pdf  
